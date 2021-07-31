@@ -4,9 +4,9 @@
 
 class Translation(object):
     
-    START_TEXT = """<b>🙋‍♂️Hey {}!!</b>
+    START_TEXT = """<b>🙋‍♂️Hey Aliyo {}!!</b>
 
-<b>Am Just A Pro Auto Filter Bot....😉</b>
+<b>Am Just Only For @parkboyschat .I am PB Family....😉</b>
 
 <b>Just Add Me To Your Group And Channel And Connect Them And See My Pevers 🔥🔥😝</b>
 
@@ -51,9 +51,9 @@ class Translation(object):
     
     ABOUT_TEXT = """<b>➥ 📃Name</b> : <b>Pro Auto Filter Bot</b>
     
-<b>➥ 😎Creator</b> : <b>@AlbertEinstein_TG</b> 
+<b>➥ 😎Creator</b> : <b>@ParkBoiBotz</b> 
 
-<b>➥ 👨‍💻Editor</b> : <b>@Mrk_YT</b>
+<b>➥ 👨‍💻Editor</b> : <b>@ParkBoiBotz</b>
 
 <b>➥ 🗣️Language</b> : <b>Python3</b>
 
